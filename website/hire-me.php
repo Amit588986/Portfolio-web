@@ -17,10 +17,10 @@
             <div class="collapse navbar-collapse"
                 id="navbarNav">
                 <ul class="nav navbar-nav ml-auto">
-                    <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
-                    <li class="nav-item"><a class="nav-link" href="projects-grid-cards.html">Projects</a></li>
-                    <li class="nav-item"><a class="nav-link" href="cv.html">CV</a></li>
-                    <li class="nav-item"><a class="nav-link active" href="hire-me.html">Hire me</a></li>
+                    <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="projects-grid-cards.php">Projects</a></li>
+                    <li class="nav-item"><a class="nav-link" href="cv.php">CV</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="hire-me.php">Hire me</a></li>
                 </ul>
             </div>
         </div>
